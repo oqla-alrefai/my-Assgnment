@@ -1,0 +1,44 @@
+[
+    {   
+        
+        "Code": "URA",
+        "Name": "URA Urine analysis",
+        "Price": 12,
+        "Sample":"urine",
+        "Location": "Lab1",
+        "Requirements": "its important to examine fre"
+    },
+    {
+        "Code": "ESR",
+        "Name": "ESR Erythrocyte sedimentation rate",
+        "Price": 16,
+        "Sample":"EDTA blood",
+        "Location": "Lab2",
+        "Requirements": "time sensitive"
+    },
+    {
+        "Code": "CBC",
+        "Name": "CBC Complete blood count",
+        "Price": 20,
+        "Sample":"EDTA blood",  
+        "Location": "Lab3",
+        "Requirements": "N/A"
+    },
+    {
+        "Code": "GOT",
+        "Name": "GOT Glutamic oxaloacetic transaminase",
+        "Price": 24,
+        "Sample":"Serum",
+        "Location": "Lab4",
+        "Requirements": "allow serum tube to clot completely"
+    },
+    {
+        "Code": "eGFR",
+        "Name": "eGFR Estimated glomerular filtration rate",
+        "Price": 28,
+        "Sample":"Serum",
+        "Location": "Lab3",
+        "Requirements": "CRS level/age/gender"
+    }
+
+]

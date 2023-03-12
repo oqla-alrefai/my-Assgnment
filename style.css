@@ -1,0 +1,47 @@
+.container{
+    width: 90vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+.search{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+input{
+    border: none;
+    width: 500px;
+    outline: none;
+}
+
+#deleteAll, #removeItem{
+    cursor: pointer;
+    width: 3vw;
+    height: 3vh;
+}
+#rem{
+    display: none;
+}
+.items{
+    cursor: pointer;
+    width: 3vw;
+    height: 3vh;
+}
+nav{
+    margin-bottom: 4vh;
+}
+#logo-image{
+    margin-left: 2vw;
+    width: 5vw;
+    height: 5vh;
+}
+h1{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-right: 2vw;
+}
